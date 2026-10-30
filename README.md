@@ -33,5 +33,5 @@ Create a public GitHub repository named `paradise-nursery`. Upload the project f
 - `src/components/CartItem.jsx`
 
 After uploading, open each file on GitHub and copy its URL. The URLs should look like:
-`https://github.com/naiyannoor/paradise-nursery/blob/main/README.md`
+`https://github.com/naiyannoor/Paradise_Nursery_React_Project`
 "# Paradise_Nursery_React_Project" 
